@@ -6,9 +6,10 @@ export default ({refreshUser,userObj})=>{
     const history = useHistory();
     const [newDisplayName,setNewDisplayName] = useState(userObj.displayName);
     const onLogOutClick = () => {
-      let a =  authService.signOut();
+         authService.signOut();
 
         history.push("/");
+
     }
     const onChange = (e) =>{
         const{
