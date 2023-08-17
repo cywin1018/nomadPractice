@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomad-app/static/js/main.201016e1.js",
-    "index.html": "/nomad-app/index.html",
-    "main.201016e1.js.map": "/nomad-app/static/js/main.201016e1.js.map"
+    "main.js": "/nomadPractice/static/js/main.0edc4eec.js",
+    "index.html": "/nomadPractice/index.html",
+    "main.0edc4eec.js.map": "/nomadPractice/static/js/main.0edc4eec.js.map"
   },
   "entrypoints": [
-    "static/js/main.201016e1.js"
+    "static/js/main.0edc4eec.js"
   ]
 }
